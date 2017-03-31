@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiffUtilSample</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_role">Sort by role</string>
+</resources>
